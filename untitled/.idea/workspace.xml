@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cce342c5-e025-49c4-91b8-b8307d855f5b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/untitled2/src/com/company/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled2/src/com/company/BlockIsoUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled2/src/com/company/BlockSolvingUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled2/src/com/company/BlockSortable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled2/src/com/company/BlockUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled2/src/com/company/GridUtil1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled2/src/com/company/GridUtils1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled2/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled2/src/com/company/PuzzleBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled2/src/data/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled2/src/data/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled2/src/data/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled2/src/data/Grid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. Meilenstein/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Meilenstein/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. Meilenstein/src/com/company/PuzzleBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Meilenstein/src/com/company/PuzzleBlock.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Guest1\Dropbox\Coding Projects Portfolio\Sudoku Solver\untitled\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dGoxmVGbnDeXNEaADYp2WTxBHR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/untitled2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Guest1\Dropbox\Coding Projects Portfolio\Sudoku Solver\untitled\untitled2\src" />
+      <recent name="C:\Users\Guest1\Dropbox\Coding Projects Portfolio\Sudoku Solver\untitled\untitled2\src\com\company" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Guest1\Dropbox\Coding Projects Portfolio\Sudoku Solver\untitled\untitled2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cce342c5-e025-49c4-91b8-b8307d855f5b" name="Default Changelist" comment="" />
+      <created>1592061039845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592061039845</updated>
+      <workItem from="1592061042866" duration="407000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

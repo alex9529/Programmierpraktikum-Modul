@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="579e99ec-3b88-46fa-83df-d2f884d9d682" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled2/src/com/company/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled2/src/com/company/BlockIsoUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled2/src/com/company/BlockSolvingUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled2/src/com/company/BlockSortable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled2/src/com/company/BlockUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled2/src/com/company/GridUtil1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled2/src/com/company/GridUtils1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled2/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled2/src/com/company/PuzzleBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled2/src/data/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled2/src/data/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled2/src/data/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled2/src/data/Grid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/PuzzleBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/PuzzleBlock.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Guest1\Dropbox\Coding Projects Portfolio\Sudoku Solver\2. Meilenstein\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dGZ7LkT01VvuTDcfLWP4UPHSgN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="579e99ec-3b88-46fa-83df-d2f884d9d682" name="Default Changelist" comment="" />
+      <created>1592053221611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592053221611</updated>
+      <workItem from="1592053225122" duration="1338000" />
+      <workItem from="1592061125331" duration="327000" />
+      <workItem from="1592563167824" duration="196000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

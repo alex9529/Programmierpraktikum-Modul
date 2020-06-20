@@ -415,7 +415,7 @@ public class App {
 		
 
 
-		System.out.println("Iterations: " + grids.size());
+		System.out.println("Iterations until grid solved: " + grids.size());
 
 		PuzzleBlock p1 = new PuzzleBlock();
 		// Grid conflictFree = p1.getBlockConflictFree(g1);
@@ -762,8 +762,27 @@ public class App {
 		 * System.out.println("Methode 5: "+p1.hasBlockSortColRow(m1));
 		 * System.out.println("Methode 6: "+p1.hasBlockSudoku(m1));
 		 */
-		System.out.println("Methode 7: " + p1.putNumberColRow(hard2, 5));
+		
+		
+		
+		System.out.println(
+				"Grid gridToSolve");
+		for (int r = 1; r < 9 + 1; r++) {
+			for (int c = 1; c < 9 + 1; c++) {
+				if (hard2.getValue(r, c) > 0) {
+					System.out.print(" " + hard2.getValue(r, c) + " ");
+				} else {
+					System.out.print(" _ ");
+				}
+			}
+			System.out.println();
+		}
+		System.out.println();
+		System.out.println("In Grid hard2 "+ p1.putNumberColRow(hard2,3) + " 3-Extensions are possible." );
 		// p1.returnGrid(hard2);
+		p1.getBlockConflictFree(g);
+		
+		
 
 	}
 
